@@ -114,20 +114,6 @@ A smart emergency response system designed to reduce ambulance response times by
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aquib22co&theme=darkhub&no-frame=true&margin-w=8" />
-
-</div>
-
-## 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=aquib22co&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aquib22co&label=Profile%20Views&color=blue&style=flat)
