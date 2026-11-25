@@ -4,6 +4,36 @@ I'm a software developer who enjoys building applications, solving real-world pr
 
 📄 **[View My Resume](https://drive.google.com/file/d/1AHLJCD49TU70ybWlJbNwYQMUXa_LW5Rj/view?usp=sharing)**
 
+## 🚀 Featured Projects
+
+### Synapse  — AI-Powered Personal Second Brain
+An intelligent knowledge management application that helps developers organize technical notes, understand programming concepts, and explore complex systems using AI.
+
+- Built a Notion-style note editor with **Next.js** and **BlockNote**, supporting structured content and autosaving.
+- Developed REST APIs using **Node.js** and **Express.js** to manage notes, collections, and conversations.
+- Integrated **Supabase Auth** and PostgreSQL with **pgvector** for authentication and vector storage.
+- Implementing **Retrieval-Augmented Generation (RAG)** to retrieve relevant information from personal knowledge and provide context-aware AI responses.
+- Integrated LLM APIs and embedding models to support semantic search and AI-powered knowledge retrieval.
+
+**Tech Stack:** Next.js · Node.js · Express.js · PostgreSQL · Supabase · pgvector · RAG · LLMs
+
+**Project:** [Link](https://synapse-frontend-mu.vercel.app/dashboard)
+
+---
+
+### 🚑 Rapid Care — AI-Powered Smart Ambulance Allocation System
+A smart emergency response system designed to reduce ambulance response times by identifying accident hotspots across Mumbai and helping people report emergencies through WhatsApp.
+
+- Analyzed Mumbai accident data and used **Gradient Boosting** to identify high-risk accident hotspots.
+- Built a WhatsApp-based AI assistant that allows people to report accidents through natural conversations.
+- Integrated **LLM-powered structured tool calling** to collect accident details, understand emergency locations, and coordinate response workflows.
+- Developed backend services using **Python** and **FastAPI** to handle emergency reporting and ambulance allocation.
+- Integrated mapping and notification services to support location-based emergency coordination.
+
+**Tech Stack:** Python · FastAPI · Machine Learning · Gradient Boosting · LLMs · RAG · MCP · WhatsApp API
+
+**Project:** [GitHub Repository](https://github.com/aquib22co/smart-ambulance)
+
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imaquib_/)
